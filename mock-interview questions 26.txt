@@ -1,0 +1,50 @@
+Mock Interview Questions
+========================
+Self Intro
+Devops Phases
+Waterfall Methodlogy
+Why we use Devops
+Difference Between AppServer & WebServer
+Difference between Appache & Nginx
+Appache log files
+why we use git so, many other tools are there but why we are using git
+git clone, git rebase, git git merge, git fetch, git pull,
+git flow branch stratergy
+why we use cherrypick
+why we use bashscript
+$_, $@, $#
+write any script if you want 
+aws services
+global services
+access key & security key
+how many types of ec2
+what if pem key is loss what we do
+what is snapshot
+what is 2\2 system checks
+difference between NACL & SG
+how to create VPC
+how many ips we have to use in one region
+what is IGW
+what is vpc peering
+what is transgitway
+Default s3 bucket class
+what is versioning 
+how to create IAM
+what is policy in IAM
+why we group in role
+how many load balancers
+HTTPS Port number
+Difference between AppLB & NetworkLB
+AutoScalling
+why we use linux
+lsof -i tcp:80
+useradd, ping, chown, tail, tail -f, du -sk, ssh, nslookup,
+r53 total concepts 
+RDS RTO & RPO
+how to create a VPC
+what are different records available in Route53?
+cloudtrail & cloudwatch
+what is jenkins
+what is ci/cd
+which port number we are using in jenkins
+difference stages of jenkins pipeline
